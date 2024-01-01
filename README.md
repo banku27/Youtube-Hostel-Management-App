@@ -1,16 +1,12 @@
-# hostel_management
+Channel Link : https://www.youtube.com/@FlutterSync-0703
 
-A new Flutter project.
+baseUrl - https://unt-house-management.onrender.com/unt
 
-## Getting Started
+Note: Learn how to optimize your API server with intelligent management! In this tutorial, I demonstrate API integration, showcasing a unique feature: automatic server shutdown after 20 minutes of inactivity. Worried about server restarts? Fear not! I've added a 2-minute delay upon hitting the API again to ensure efficiency without overloading the server.
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/banku27/Youtube-Hostel-Management-App/assets/55456058/110a63c1-9599-4a13-8055-a28d40014143">
 
-A few resources to get you started if this is your first Flutter project:
+// Email Validation Regex : 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+final emailRegex =
+      RegExp(r'^[\w-]+(\.[\w-]+)*@[\w-]+(\.[\w-]+)*(\.[a-z]{2,})$');
